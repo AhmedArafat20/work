@@ -1,0 +1,19 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Aref Ruqaa',  serif;
+  direction: rtl;
+  text-align: right;
+  /* background: rgb(225,203,187);
+background: linear-gradient(90deg, rgba(225,203,187,1) 0%, rgba(252,236,228,1) 59%, rgba(202,197,197,1) 100%); */
+scroll-behavior: smooth;
+}
+
+.arabic-text {
+  font-family: 'Changa', serif;
+}
+
+
