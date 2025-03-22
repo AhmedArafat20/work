@@ -113,7 +113,7 @@ const Navbar = () => {
 
           <div className="hidden md:flex items-center md:rounded">
             <a
-              href="tel:+9660543516010"
+              href="tel:+9660553139266"
               className="flex items-center h-10 w-30 rounded-md bg-[#c8a876]  hover:bg-[#c09858] text-white font-medium p-2"
             >
               <svg
@@ -130,7 +130,7 @@ const Navbar = () => {
                   d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z"
                 />
               </svg>
-              <a href="tel:0561787280">اتصل بنا</a>
+              <a href="tel:0553139266">اتصل بنا</a>
             </a>
           </div>
         </div>
@@ -156,7 +156,7 @@ const Navbar = () => {
             </h1>
             <p className="font-regular text-xl mb-8 mt-4">{displayedText}</p>
             <motion.a
-              href="tel:+9660561787280"
+              href="tel:+9660553139266"
               className="px-6 py-3 bg-[#c8a876] text-white font-medium rounded-full hover:bg-[#c09858] transition duration-200"
               initial={{ opacity: 0, x: -100 }}
               animate={{ opacity: 1, x: 0 }}
